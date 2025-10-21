@@ -1,0 +1,82 @@
+.light-theme {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+}
+
+.light-theme .project-container {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.light-theme .navbar-container {
+    background-color: #f8f9fa;
+    color: #000000;
+}
+
+.light-theme .header-name {
+    color: #000000 !important;
+}
+
+.light-theme .header-name span {
+    color: #007bff !important;
+}
+
+.light-theme .navbar-list a {
+    color: #000000 !important;
+}
+
+.light-theme .navbar-list a:hover {
+    color: #007bff !important;
+}
+
+.light-theme .greeting-text h1,
+.light-theme .greeting-text h2 {
+    color: #000000 !important;
+}
+
+.light-theme .contact-link {
+    color: #007bff !important;
+}
+
+.light-theme .about-title,
+.light-theme .work-title,
+.light-theme .contact-me-title {
+    color: #000000 !important;
+}
+
+.light-theme .about-text,
+.light-theme .work-text,
+.light-theme .contact-me-text {
+    color: #333333 !important;
+}
+
+.light-theme hr {
+    border-color: #007bff !important;
+}
+
+.light-theme .form-container input {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    border-bottom-color: #000000 !important;
+}
+
+.light-theme .send-button {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    border-color: #000000 !important;
+    border-radius: 10px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.light-theme .send-button:hover {
+    background-color: #007bff !important;
+    color: #ffffff !important;
+    border-color: #007bff !important;
+    box-shadow: 0 4px 16px rgba(0, 123, 255, 0.2);
+    transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.light-theme .theme-switch-button {
+    background-color: #007bff !important;
+    color: #ffffff !important;
+}
